@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "IHC",
+    "slug": "IHC",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
